@@ -1,7 +1,7 @@
 name: Colter Gilliland
 favicon: null
-layout_spectrum: 0.5545517434366047
-typography_spectrum: 0.4994702523108572
+layout_spectrum: 0.24972
+typography_spectrum: 0.16924
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.8957848122809082
-  lightness: 0.7723439771216363
-  saturation: 0.19788264390081167
-  rhythmicContrast: 0.003079509362578392
+    - '#16151b'
+    - '#682d29'
+    - '#ae2400'
+    - '#ca5e16'
+    - '#861300'
+  brandStrength: 0.3125
+  lightness: 0.625
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
